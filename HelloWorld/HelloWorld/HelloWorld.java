@@ -3,7 +3,7 @@ public class HelloWorld {
 
 {
 //  system.out.println('');
-  System.out.println("/HelloWorld!/n");
+  System.out.println("/HelloWorld!/");
   //system.out.println('');
 }
 
